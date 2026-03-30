@@ -93,7 +93,6 @@ Server will start at:
 
 ```
 http://localhost:8000
-
 ```
 http://localhost:8000/events
 ```
@@ -209,6 +208,12 @@ Swagger file available at:
 ## 📮 Postman Collection
 
 A Postman collection is included in the repository for easy API testing.
+```
+Screenshot: https://drive.google.com/file/d/1-XSZRmkcVNMCgb12yBRpRbltR-EmGYgr/view?usp=sharing
+```
+Screenshot: https://drive.google.com/file/d/1HH_QtdGTp2yi9IEq6ekOjhOuHh4kRPta/view?usp=sharing
+```
+
 
 ---
 
