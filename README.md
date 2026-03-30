@@ -9,6 +9,9 @@ This project is a backend system that allows users to browse events and book tic
 ## Live
 
 Screen Recording: https://drive.google.com/file/d/1eMJlWmRhLVXC51aiDU758BQ79v4XYQLi/view?usp=sharing
+Postman Screenshot: https://drive.google.com/file/d/1-XSZRmkcVNMCgb12yBRpRbltR-EmGYgr/view?usp=sharing
+Postman Screenshot: https://drive.google.com/file/d/1HH_QtdGTp2yi9IEq6ekOjhOuHh4kRPta/view?usp=sharing
+
 ---
 
 ## 🛠 Tech Stack
