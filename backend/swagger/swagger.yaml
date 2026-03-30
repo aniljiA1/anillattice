@@ -1,0 +1,35 @@
+openapi: 3.0.0
+info:
+  title: Event Booking API
+  version: 1.0.0
+
+paths:
+  /events:
+    get:
+      summary: Get all events
+      responses:
+        200:
+          description: OK
+
+    post:
+      summary: Create event
+      requestBody:
+        required: true
+      responses:
+        200:
+          description: Created
+
+  /bookings:
+    post:
+      summary: Create booking
+      responses:
+        200:
+          description: Booking success
+
+  /users/{id}/bookings:
+    get:
+      summary: Get user bookings
+      parameters:
+        - name: id
+          in: path
+          required: true
