@@ -90,15 +90,16 @@ npm run dev
 ```
 
 Server will start at:
-
-
-http://localhost:8000
 ```
-
-http://localhost:8000/events
+http://localhost:8000
 ```
 ---
 
+```
+http://localhost:8000/events
+```
+---
+```
 http://localhost:8000/users/1/bookings
 ```
 ---
