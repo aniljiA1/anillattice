@@ -6,6 +6,11 @@ This project is a backend system that allows users to browse events and book tic
 
 ---
 
+## Live
+
+Screen Recording: https://drive.google.com/file/d/1eMJlWmRhLVXC51aiDU758BQ79v4XYQLi/view?usp=sharing
+---
+
 ## 🛠 Tech Stack
 
 * Node.js
